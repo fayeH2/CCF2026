@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="CCF 2026 推荐学术会议和期刊查询，保留原始 PDF 字段及链接核验状态。" />
+  <title>CCF Atlas 2026 | 推荐期刊与会议查询</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <script defer src="data/venues.js"></script>
+  <script defer src="assets/app.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <header class="sitebar">
+      <div class="brand"><span class="brand-symbol">C</span><span>CCF <strong>ATLAS</strong><small>2026 学术目录</small></span></div>
+      <div class="nav"><a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_blank" rel="noopener noreferrer">CCF 官方目录 ↗</a><a href="source/原始目录-2026-用户上传.pdf" target="_blank">源 PDF ↗</a><a href="#about">数据说明 ↓</a></div>
+    </header>
+    <main>
+      <section class="hero">
+        <p class="eyebrow">RECOMMENDED ACADEMIC VENUES · 7TH EDITION</p>
+        <h1>找期刊、找会议，<span>一页就够。</span></h1>
+        <p class="hero-sub">CCF 2026 推荐国际学术会议与期刊 · 本站当前收录原始 PDF 中的<strong>人工智能</strong>与<strong>计算机图形学与多媒体</strong>两个方向。</p>
+        <div class="stats">
+          <div><strong id="stat-total">—</strong><span>收录条目</span></div>
+          <div><strong id="stat-a">—</strong><span>A 类</span></div>
+          <div><strong id="stat-journal">—</strong><span>期刊</span></div>
+          <div><strong id="stat-conf">—</strong><span>会议</span></div>
+        </div>
+      </section>
+      <div class="notice"><span>i</span><p><strong>数据说明：</strong>网页忠实保留 PDF 的网址原文。原文中存在错误链接、截断地址及空缺；只有结构可信或经过核实的索引网址提供单击访问，正式官网仅展示已确认链接。<a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_blank" rel="noopener noreferrer">CCF 正式目录 ↗</a> 是最终核对依据。</p></div>
+      <section class="explorer" aria-label="查询筛选">
+        <div class="section-top"><div><h2>目录查询</h2><p>输入简称、全称、出版社或学科关键词</p></div><button class="secondary-button" id="export-btn" type="button">导出筛选结果 ↓</button></div>
+        <div class="search-wrap"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><input id="q" type="search" placeholder="试试 CVPR、TPAMI、Pattern Recognition、人工智能..." autocomplete="off" /><kbd>/</kbd></div>
+        <div class="filters">
+          <label>研究领域<select id="field"><option value="">全部领域</option><option>人工智能</option><option>计算机图形学与多媒体</option></select></label>
+          <label>推荐级别<select id="grade"><option value="">全部级别</option><option value="A">A 类</option><option value="B">B 类</option><option value="C">C 类</option></select></label>
+          <label>类型<select id="type"><option value="">全部类型</option><option value="期刊">期刊</option><option value="会议">会议</option></select></label>
+          <label>链接状态<select id="linkState"><option value="">全部状态</option><option value="可访问">有可访问链接</option><option value="待核对">需核对 / 缺失</option></select></label>
+          <button class="reset" id="reset" type="button">重置</button>
+        </div>
+        <div class="result-heading"><span id="result-count">加载数据中…</span><span class="mini-legend"><b class="dot dot-green"></b>核实官网/索引　<b class="dot dot-amber"></b>原文可跳转但未全面核实　<b class="dot dot-red"></b>错链/缺失</span></div>
+        <div class="table-scroll"><table id="records"><thead><tr>
+          <th>级别</th><th>类别</th><th>简称</th><th>期刊 / 会议全称</th><th>出版社 / 主办方</th><th>领域</th><th>官方主页</th><th>学术索引</th><th>PDF 原始网址（原样保留）</th><th>来源</th>
+        </tr></thead><tbody id="tbody"></tbody></table></div>
+        <div id="empty" class="empty" hidden>没有找到匹配条目，试试更短的关键词或重置筛选。</div>
+        <div class="pager"><span id="page-counter"></span><div><button id="prev" type="button">← 上一页</button><button id="next" type="button">下一页 →</button></div></div>
+      </section>
+      <section class="footer-note" id="about"><h3>原始字段与链接管理说明</h3><p>所有条目保留 PDF 的 <strong>类别 / 等级 / 简称 / 全称 / 出版社 / 原始网址</strong>，另附原 PDF 页码、学术索引网址、官方主页、核对状态与备注。<strong>PDF 中的大部分“网址”实际是 DBLP 索引，而非期刊或会议主办方的官方网址。</strong> 未经核实的地址不会冒充官方地址。本站为第三方查询工具，不代表 CCF 官方发布。</p></section>
+    </main>
+    <footer>CCF ATLAS · 2026 · 数据源为用户提供的 PDF 节选 · <a href="https://www.ccf.org.cn/Academic_Evaluation/By_category/" target="_blank" rel="noopener noreferrer">中国计算机学会</a></footer>
+  </div>
+</body>
+</html>

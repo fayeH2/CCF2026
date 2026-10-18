@@ -1,0 +1,172 @@
+﻿id,学科领域,类别,等级,简称,全称,出版社/主办方,原始网址,pdf页码,官方网址,学术索引网址,链接状态,备注
+p01-r01,计算机图形学与多媒体,期刊,A,TOG,ACM Transactions on Graphics,ACM,http://dblp.uni-trier.de/db/journals/tog/,1,,https://dblp.org/db/journals/tog/,可跳转／未经逐条核验,
+p01-r02,计算机图形学与多媒体,期刊,A,TIP,IEEE Transactions on Image Processing,IEEE,http://dblp.uni-trier.de/db/journals/tip/,1,,https://dblp.org/db/journals/tip/,可跳转／未经逐条核验,
+p01-r03,计算机图形学与多媒体,期刊,A,TVCG,IEEE Transactions on Visualization and Computer Graphics,IEEE,http://dblp.uni-trier.de/db/journals/tvcg/,1,,https://dblp.org/db/journals/tvcg/,可跳转／未经逐条核验,
+p01-r04,计算机图形学与多媒体,期刊,A,TMM,IEEE Transactions on Multimedia,IEEE,http://dblp.uni-trier.de/db/journals/tmm/,1,,https://dblp.org/db/journals/tmm/,可跳转／未经逐条核验,
+p02-r01,计算机图形学与多媒体,期刊,B,TOMM,"ACM Transactions on Multimedia Computing, Communications and Applications",ACM,http://dblp.uni-trier.de/db/journals/tomcca,2,,,疑似截断,
+p02-r02,计算机图形学与多媒体,期刊,B,CAGD,Computer Aided Geometric Design,Elsevier,http://dblp.uni-trier.de/db/journals/cagd/,2,,https://dblp.org/db/journals/cagd/,可跳转／未经逐条核验,
+p02-r03,计算机图形学与多媒体,期刊,B,CGF,Computer Graphics Forum,Wiley,http://dblp.uni-trier.de/db/journals/cgf/,2,,https://dblp.org/db/journals/cgf/,可跳转／未经逐条核验,
+p02-r04,计算机图形学与多媒体,期刊,B,CAD,Computer-Aided Design,Elsevier,http://dblp.uni-trier.de/db/journals/cad/,2,,https://dblp.org/db/journals/cad/,可跳转／未经逐条核验,
+p02-r05,计算机图形学与多媒体,期刊,B,TCSVT,IEEE Transactions on Circuits and Systems for Video Technology,IEEE,http://dblp.uni-trier.de/db/journals/tcsv/,2,,https://dblp.org/db/journals/tcsv/,可跳转／未经逐条核验,
+p02-r06,计算机图形学与多媒体,期刊,B,JASA,The Journal of the Acoustical Society of America,AIP,http://scitation.aip.org/content/asa/journal,2,,,疑似截断,
+p02-r07,计算机图形学与多媒体,期刊,B,SIIMS,SIAM Journal on Imaging Sciences,SIAM,http://dblp.uni-trier.de/db/journals/siamis/,2,,https://dblp.org/db/journals/siamis/,可跳转／未经逐条核验,
+p02-r08,计算机图形学与多媒体,期刊,B,SPECOM,Speech Communication,Elsevier,http://dblp.uni-trier.de/db/journals/speech,2,,,疑似截断,
+p02-r09,计算机图形学与多媒体,期刊,B,CVMJ,Computational Visual Media,Tsinghua University/Springer,https://dblp.org/db/journals/cvm/index.htm,2,,https://dblp.org/db/journals/cvm/index.htm,可跳转／未经逐条核验,
+p03-r01,计算机图形学与多媒体,期刊,C,CGTA,Computational Geometry: Theory and Applications,Elsevier,http://dblp.uni-trier.de/db/journals/comgeo,3,,,疑似截断,
+p03-r02,计算机图形学与多媒体,期刊,C,CAVW,Computer animation & virtual worlds,Wiley,https://dblp.org/db/journals/jvca/index.htm,3,,https://dblp.org/db/journals/jvca/index.htm,可跳转／未经逐条核验,
+p03-r03,计算机图形学与多媒体,期刊,C,C&G,Computers & Graphics,Elsevier,http://dblp.uni-trier.de/db/journals/cg/,3,,https://dblp.org/db/journals/cg/,可跳转／未经逐条核验,
+p03-r04,计算机图形学与多媒体,期刊,C,DCG,Discrete & Computational Geometry,Springer,http://dblp.uni-trier.de/db/journals/dcg/,3,,https://dblp.org/db/journals/dcg/,可跳转／未经逐条核验,
+p03-r05,计算机图形学与多媒体,期刊,C,SPL,IEEE Signal Processing Letters,IEEE,http://dblp.uni-trier.de/db/journals/spl/,3,,https://dblp.org/db/journals/spl/,可跳转／未经逐条核验,
+p03-r06,计算机图形学与多媒体,期刊,C,IET-IPR,IET Image Processing,IET,http://dblp.uni-trier.de/db/journals/iet-ipr/,3,,https://dblp.org/db/journals/iet-ipr/,可跳转／未经逐条核验,
+p03-r07,计算机图形学与多媒体,期刊,C,JVCIR,Journal of Visual Communication and Image Representation,Elsevier,http://dblp.uni-trier.de/db/journals/jvcir/,3,,https://dblp.org/db/journals/jvcir/,可跳转／未经逐条核验,
+p03-r08,计算机图形学与多媒体,期刊,C,MS,Multimedia Systems,Springer,http://dblp.uni-trier.de/db/journals/mms/,3,,https://dblp.org/db/journals/mms/,可跳转／未经逐条核验,
+p03-r09,计算机图形学与多媒体,期刊,C,MTA,Multimedia Tools and Applications,Springer,http://dblp.uni-trier.de/db/journals/mta/,3,,https://dblp.org/db/journals/mta/,可跳转／未经逐条核验,
+p03-r10,计算机图形学与多媒体,期刊,C,SIGPRO,Signal Processing,Elsevier,http://dblp.uni-trier.de/db/journals/sigpro/,3,,https://dblp.org/db/journals/sigpro/,可跳转／未经逐条核验,
+p03-r11,计算机图形学与多媒体,期刊,C,IMAGE,Signal Processing: Image Communication,Elsevier,http://dblp.uni-trier.de/db/journals/spic/,3,,https://dblp.org/db/journals/spic/,可跳转／未经逐条核验,
+p03-r12,计算机图形学与多媒体,期刊,C,TVC,The Visual Computer,Springer,http://dblp.uni-trier.de/db/journals/vc/,3,,https://dblp.org/db/journals/vc/,可跳转／未经逐条核验,
+p03-r13,计算机图形学与多媒体,期刊,C,VI,Visual Informatics,浙江大学出 版社,https://dblp.uni-trier.de/db/journals/vi/inde,3,,,疑似截断,
+p03-r14,计算机图形学与多媒体,期刊,C,VRIH,Virtual Reality & Intelligent Hardware,中国科技出 版社/北京航 空航天大学,https://dblp.uni-trier.de/db/journals/vrih/in,3,,,疑似截断,
+p03-r15,计算机图形学与多媒体,期刊,C,GMOD,Graphical Models,Elsevier,http://dblp.uni-trier.de/db/journals/cvgip/,3,,https://dblp.org/db/journals/cvgip/,可跳转／未经逐条核验,
+p04-r01,计算机图形学与多媒体,会议,A,ACM MM,ACM International Conference on Multimedia,ACM,http://dblp.uni-trier.de/db/conf/mm/,4,,https://dblp.org/db/conf/mm/,可跳转／未经逐条核验,
+p04-r02,计算机图形学与多媒体,会议,A,SIGGRAPH,ACM Special Interest Group on Computer Graphics,ACM,http://dblp.uni-trier.de/db/conf/siggraph/ind,4,,,疑似截断,
+p04-r03,计算机图形学与多媒体,会议,A,VR,IEEE Virtual Reality,IEEE,http://dblp.uni-trier.de/db/conf/vr/,4,,https://dblp.org/db/conf/vr/,可跳转／未经逐条核验,
+p04-r04,计算机图形学与多媒体,会议,A,IEEE VIS,IEEE Visualization Conference,IEEE,http://dblp.uni-trier.de/db/conf/visualization,4,,,疑似截断,
+p05-r01,计算机图形学与多媒体,会议,B,ICMR,ACM SIGMM International Conference on Multimedia Retrieval,ACM,http://dblp.uni-trier.de/db/conf/mir/,5,,https://dblp.org/db/conf/mir/,可跳转／未经逐条核验,
+p05-r02,计算机图形学与多媒体,会议,B,I3D,ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games,ACM,http://dblp.uni-trier.de/db/conf/si3d/,5,,https://dblp.org/db/conf/si3d/,可跳转／未经逐条核验,
+p05-r03,计算机图形学与多媒体,会议,B,SCA,ACM SIGGRAPH/Eurographics Symposium on Computer Animation,ACM,http://dblp.uni-trier.de/db/conf/sca/index.htm,5,,https://dblp.org/db/conf/sca/index.htm,可跳转／未经逐条核验,
+p05-r04,计算机图形学与多媒体,会议,B,DCC,Data Compression Conference,IEEE,http://dblp.uni-trier.de/db/conf/dcc/,5,,https://dblp.org/db/conf/dcc/,可跳转／未经逐条核验,
+p05-r05,计算机图形学与多媒体,会议,B,Eurographics,Annual Conference of the European Association for Computer Graphics,Wiley/ Blackwell,http://dblp.uni-trier.de/db/conf/eurographics,5,,,疑似截断,
+p05-r06,计算机图形学与多媒体,会议,B,EuroVis,Eurographics Conference on Visualization,ACM,http://dblp.uni-trier.de/db/conf/vissym/,5,,https://dblp.org/db/conf/vissym/,可跳转／未经逐条核验,
+p05-r07,计算机图形学与多媒体,会议,B,SGP,Eurographics Symposium on Geometry Processing,Wiley/ Blackwell,http://dblp.uni-trier.de/db/conf/sgp/,5,,https://dblp.org/db/conf/sgp/,可跳转／未经逐条核验,
+p05-r08,计算机图形学与多媒体,会议,B,EGSR,Eurographics Symposium on Rendering,Wiley/ Blackwell,http://dblp.uni-trier.de/db/conf/rt/,5,,https://dblp.org/db/conf/rt/,可跳转／未经逐条核验,
+p05-r09,计算机图形学与多媒体,会议,B,ICASSP,"IEEE International Conference on Acoustics, Speech and Signal Processing",IEEE,http://dblp.uni-trier.de/db/conf/icassp/,5,,https://dblp.org/db/conf/icassp/,可跳转／未经逐条核验,
+p05-r10,计算机图形学与多媒体,会议,B,ICME,IEEE International Conference on Multimedia & Expo,IEEE,http://dblp.uni-trier.de/db/conf/icmcs/,5,,https://dblp.org/db/conf/icmcs/,可跳转／未经逐条核验,
+p05-r11,计算机图形学与多媒体,会议,B,ISMAR,International Symposium on Mixed and Augmented Reality,IEEE/ ACM,http://dblp.uni-trier.de/db/conf/ismar/,5,,https://dblp.org/db/conf/ismar/,可跳转／未经逐条核验,
+p05-r12,计算机图形学与多媒体,会议,B,PG,Pacific Conference onComputer Graphics and Applications,Wiley/ Blackwell,http://dblp.uni-trier.de/db/conf/pg/index.htm,5,,https://dblp.org/db/conf/pg/index.htm,可跳转／未经逐条核验,
+p05-r13,计算机图形学与多媒体,会议,B,SPM,Symposium on Solid and Physical Modeling,SMA/ Elsevier,http://dblp.uni-trier.de/db/conf/sma/,5,,https://dblp.org/db/conf/sma/,可跳转／未经逐条核验,
+p05-r14,计算机图形学与多媒体,会议,B,INTER-SPEECH,Conference of the International Speech Communication Association,ISCA,http://dblp.uni-trier.de/db/conf/interspeech/i,5,,,疑似截断,原 PDF 中简称换行显示
+p06-r01,计算机图形学与多媒体,会议,C,VRST,ACM Symposium on Virtual Reality Software and Technology,ACM,http://dblp2.uni-trier.de/db/conf/vrst/,6,,https://dblp.org/db/conf/vrst/,可跳转／未经逐条核验,
+p06-r02,计算机图形学与多媒体,会议,C,CASA,International Conference on Computer Animation and Social Agents,Wiley,http://dblp.uni-trier.de/db/conf/ca/,6,,https://dblp.org/db/conf/ca/,可跳转／未经逐条核验,
+p06-r03,计算机图形学与多媒体,会议,C,CGI,Computer Graphics International,Springer,http://dblp.uni-trier.de/db/conf/cgi/,6,,https://dblp.org/db/conf/cgi/,可跳转／未经逐条核验,
+p06-r04,计算机图形学与多媒体,会议,C,GMP,Geometric Modeling and Processing,Elsevier,http://dblp.uni-trier.de/db/conf/gmp/,6,,https://dblp.org/db/conf/gmp/,可跳转／未经逐条核验,
+p06-r05,计算机图形学与多媒体,会议,C,PacificVis,IEEE Pacific Visualization Symposium,IEEE,http://dblp.uni-trier.de/db/conf/apvis/,6,,https://dblp.org/db/conf/apvis/,可跳转／未经逐条核验,
+p06-r06,计算机图形学与多媒体,会议,C,3DV,International Conference on 3D Vision,IEEE,https://dblp.uni-trier.de/db/conf/3dim/,6,,https://dblp.org/db/conf/3dim/,可跳转／未经逐条核验,
+p06-r07,计算机图形学与多媒体,会议,C,CAD/Graphics,International Conference on Computer-Aided Design and Computer Graphics Processing,IEEE,https://dblp.uni-trier.de/db/conf/cadgraphics,6,,,疑似截断,
+p06-r08,计算机图形学与多媒体,会议,C,ICIP,IEEE International Conference on Image Processing,IEEE,http://dblp.uni-trier.de/db/conf/icip/,6,,https://dblp.org/db/conf/icip/,可跳转／未经逐条核验,
+p06-r09,计算机图形学与多媒体,会议,C,MMM,International Conference on Multimedia Modeling,Springer,http://dblp.uni-trier.de/db/conf/mmm/index.h,6,,,疑似截断,
+p06-r10,计算机图形学与多媒体,会议,C,MMAsia,ACM Multimedia Asia,ACM,https://dblp.uni-trier.de/db/conf/mmasia/inde,6,,,疑似截断,
+p06-r11,计算机图形学与多媒体,会议,C,SMI,Shape Modeling International,IEEE,http://dblp.uni-trier.de/db/conf/smi/,6,,https://dblp.org/db/conf/smi/,可跳转／未经逐条核验,
+p06-r12,计算机图形学与多媒体,会议,C,ICVRV,International Conference on Virtual Reality and Visualization,IEEE,https://www.computer.org/csdl/proceedings/,6,,https://www.computer.org/csdl/proceedings/,可跳转／未经逐条核验,原 PDF 中此条目带删除线，推荐状态待进一步核实
+p06-r13,计算机图形学与多媒体,会议,C,CVM,Computational Visual Media,Tsinghua University,https://dblp.org/db/conf/cvm/index.html,6,,https://dblp.org/db/conf/cvm/index.html,可跳转／未经逐条核验,
+p06-r14,计算机图形学与多媒体,会议,C,PRCV,Chinese Conference on Pattern Recognition and Computer Vision,Springer,https://dblp.org/db/conf/prcv/index.html,6,,https://dblp.org/db/conf/prcv/index.html,可跳转／未经逐条核验,
+p06-r15,计算机图形学与多媒体,会议,C,ICIG,International Conference on Image and Graphics,Springer,https://dblp.uni-trier.de/db/conf/icig/index.h,6,,,疑似截断,
+p07-r01,计算机图形学与多媒体,会议,C,NCMMSC,National Conference on Man-Machine Speech Communication,CCF/中国中 文信息学会,https://dblp.uni-trier.de/search?q=NCMM,7,,,疑似截断,
+p07-r02,计算机图形学与多媒体,会议,C,ASRU,Automatic Speech Recognition and Understanding Workshop,IEEE SLTC,https://dblp.uni-trier.de/db/conf/asru/inde,7,,,疑似截断,
+p07-r03,计算机图形学与多媒体,会议,C,SLT,Spoken Language Technology,IEEE SLTC,https://dblp.uni-trier.de/db/conf/slt/index,7,,,疑似截断,
+p08-r01,人工智能,期刊,A,AI,Artificial Intelligence,Elsevier,http://dblp.uni-trier.de/db/conf/mm/,8,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p08-r02,人工智能,期刊,A,TPAMI,IEEE Transactions on Pattern Analysis and Machine Intelligence,IEEE,http://dblp.uni-trier.de/db/conf/siggraph/ind,8,,https://dblp.org/db/journals/pami/,人工核对,原 PDF 链接有误，已添加核实过的 DBLP 链接
+p08-r03,人工智能,期刊,A,IJCV,International Journal of Computer Vision,Springer,http://dblp.uni-trier.de/db/conf/vr/,8,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p08-r04,人工智能,期刊,A,JMLR,Journal of Machine Learning Research,MIT Press,http://dblp.uni-trier.de/db/conf/visualization,8,https://www.jmlr.org/,,疑似错链,2026-10-18：期刊网站；原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r01,人工智能,期刊,B,TAP,ACM Transactions on Applied Perception,ACM,http://dblp2.uni-trier.de/db/conf/vrst/,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r02,人工智能,期刊,B,AAMAS,Autonomous Agents and Multi-Agent Systems,Springer,http://dblp.uni-trier.de/db/conf/ca/,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r03,人工智能,期刊,B,,Computational Linguistics,MIT Press,http://dblp.uni-trier.de/db/conf/cgi/,9,,,疑似错链,原文简称为空；原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r04,人工智能,期刊,B,CVIU,Computer Vision and Image Understanding,Elsevier,http://dblp.uni-trier.de/db/conf/interspeech/in,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r05,人工智能,期刊,B,DKE,Data & Knowledge Engineering,Elsevier,http://dblp.uni-trier.de/db/conf/gmp/,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r06,人工智能,期刊,B,,Evolutionary Computation,MIT Press,http://dblp.uni-trier.de/db/conf/apvis/,9,,,疑似错链,原文简称为空；原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r07,人工智能,期刊,B,TAC,IEEE Transactions on Affective Computing,IEEE,https://dblp.uni-trier.de/db/conf/3dim/,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r08,人工智能,期刊,B,TASLP,"IEEE/ACM Transactions on Audio, Speech and Language Processing",IEEE,https://dblp.uni-trier.de/db/conf/cadgraphics,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r09,人工智能,期刊,B,,IEEE Transactions on Cybernetics,IEEE,http://dblp.uni-trier.de/db/conf/icip/,9,,,疑似错链,原文简称为空；原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r10,人工智能,期刊,B,TEC,IEEE Transactions on Evolutionary Computation,IEEE,http://dblp.uni-trier.de/db/conf/mmm/index.h,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r11,人工智能,期刊,B,TFS,IEEE Transactions on Fuzzy Systems,IEEE,https://dblp.uni-trier.de/db/conf/mmasia/inde,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r12,人工智能,期刊,B,TNNLS,IEEE Transactions on Neural Networks and learning systems,IEEE,http://dblp.uni-trier.de/db/conf/smi/,9,,,疑似错链,原 PDF 期刊网址指向会议索引，暂不自动跳转
+p09-r13,人工智能,期刊,B,IJAR,International Journal of Approximate Reasoning,Elsevier,https://www.computer.org/csdl/proceedings/,9,,https://www.computer.org/csdl/proceedings/,可跳转／未经逐条核验,
+p10-r01,人工智能,期刊,B,JAIR,Journal of Artificial Intelligence Research,AAAI,http://dblp.uni-trier.de/db/journals/tomcca,10,,,疑似错链,此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r02,人工智能,期刊,B,,Journal of Automated Reasoning,Springer,http://dblp.uni-trier.de/db/journals/cagd/,10,,,疑似错链,原文简称为空；此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r03,人工智能,期刊,B,JSLHR,"Journal of Speech, Language, and Hearing Research",American Speech- Language Hearing Association,http://dblp.uni-trier.de/db/journals/cgf/,10,,,疑似错链,此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r04,人工智能,期刊,B,,Machine Learning,Springer,http://dblp.uni-trier.de/db/journals/cad/,10,,,疑似错链,原文简称为空；此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r05,人工智能,期刊,B,,Neural Computation,MIT Press,http://dblp.uni-trier.de/db/journals/cvgip/,10,,,疑似错链,原文简称为空；此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r06,人工智能,期刊,B,,Neural Networks,Elsevier,http://dblp.uni-trier.de/db/journals/tcsv/,10,,,疑似错链,原文简称为空；此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r07,人工智能,期刊,B,PR,Pattern Recognition,Elsevier,http://dblp.uni-trier.de/db/journals/tmm/,10,,,疑似错链,此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p10-r08,人工智能,期刊,B,TACL,Transactions of the Association for Computational Linguistics,The Association for Computational Linguistics,http://scitation.aip.org/content/asa/journal,10,,,疑似错链,此页原始网址整体疑似套用了多媒体期刊的链接，暂不自动跳转
+p11-r01,人工智能,期刊,C,TALLIP,ACM Transactions on Asian and Low-Resource Language Information Processing,ACM,http://dblp.uni-trier.de/db/journals/talip/,11,,https://dblp.org/db/journals/talip/,可跳转／未经逐条核验,
+p11-r02,人工智能,期刊,C,,Applied Intelligence,Springer,http://dblp.uni-trier.de/db/journals/apin/,11,,https://dblp.org/db/journals/apin/,可跳转／未经逐条核验,原文简称为空
+p11-r03,人工智能,期刊,C,AIM,Artificial Intelligence in Medicine,Elsevier,http://dblp.uni-trier.de/db/journals/artmed/,11,,https://dblp.org/db/journals/artmed/,可跳转／未经逐条核验,
+p11-r04,人工智能,期刊,C,,Artificial Life,MIT Press,http://dblp.uni-trier.de/db/journals/alife/,11,,https://dblp.org/db/journals/alife/,可跳转／未经逐条核验,原文简称为空
+p11-r05,人工智能,期刊,C,,Computational Intelligence,Wiley,http://dblp.uni-trier.de/db/journals/ci/,11,,https://dblp.org/db/journals/ci/,可跳转／未经逐条核验,原文简称为空
+p11-r06,人工智能,期刊,C,,Computer Speech & Language,Elsevier,http://dblp.uni-trier.de/db/journals/csl/,11,,https://dblp.org/db/journals/csl/,可跳转／未经逐条核验,原文简称为空
+p11-r07,人工智能,期刊,C,,Connection Science,Taylor & Francis,http://dblp.uni-trier.de/db/journals/connectio,11,,,疑似截断,原文简称为空
+p11-r08,人工智能,期刊,C,DSS,Decision Support Systems,Elsevier,http://dblp.uni-trier.de/db/journals/dss/,11,,https://dblp.org/db/journals/dss/,可跳转／未经逐条核验,
+p11-r09,人工智能,期刊,C,EAAI,Engineering Applications of Artificial,Elsevier,http://dblp.uni-trier.de/db/journals/eaai/,11,,https://dblp.org/db/journals/eaai/,可跳转／未经逐条核验,
+p11-r10,人工智能,期刊,C,,Intelligence Expert Systems,Blackwell/ Wiley,http://dblp.uni-trier.de/db/journals/es/,11,,https://dblp.org/db/journals/es/,可跳转／未经逐条核验,原文简称为空
+p11-r11,人工智能,期刊,C,ESWA,Expert Systems with Applications,Elsevier,http://dblp.uni-trier.de/db/journals/eswa/,11,,https://dblp.org/db/journals/eswa/,可跳转／未经逐条核验,
+p11-r12,人工智能,期刊,C,,Fuzzy Sets and Systems,Elsevier,http://dblp.uni-trier.de/db/journals/fss/,11,,https://dblp.org/db/journals/fss/,可跳转／未经逐条核验,原文简称为空
+p11-r13,人工智能,期刊,C,TG,IEEE Transactions on Games,IEEE,http://dblp.uni-trier.de/db/journals/tciaig/,11,,https://dblp.org/db/journals/tciaig/,可跳转／未经逐条核验,
+p11-r14,人工智能,期刊,C,IET-CVI,IET Computer Vision,IET,https://dblp.org/db/journals/iet-cvi/index.htm,11,,https://dblp.org/db/journals/iet-cvi/index.htm,可跳转／未经逐条核验,
+p11-r15,人工智能,期刊,C,,IET Signal Processing,IET,https://dblp.org/db/journals/iet-spr/index.htm,11,,https://dblp.org/db/journals/iet-spr/index.htm,可跳转／未经逐条核验,原文简称为空
+p12-r01,人工智能,期刊,C,IVC,Image and Vision Computing,Elsevier,http://dblp.uni-trier.de/db/journals/ivc/,12,,https://dblp.org/db/journals/ivc/,可跳转／未经逐条核验,
+p12-r02,人工智能,期刊,C,IDA,Intelligent Data Analysis,IOS Press,http://dblp.uni-trier.de/db/journals/ida/,12,,https://dblp.org/db/journals/ida/,可跳转／未经逐条核验,
+p12-r03,人工智能,期刊,C,IJCIA,International Journal of Computational Intelligence and Applications,World Scientific,http://dblp.uni-trier.de/db/journals/ijcia/,12,,https://dblp.org/db/journals/ijcia/,可跳转／未经逐条核验,
+p12-r04,人工智能,期刊,C,IJIS,International Journal of Intelligent Systems,Wiley,http://dblp.uni-trier.de/db/journals/ijis/,12,,https://dblp.org/db/journals/ijis/,可跳转／未经逐条核验,
+p12-r05,人工智能,期刊,C,IJNS,International Journal of Neural Systems,World Scientific,http://dblp.uni-trier.de/db/journals/ijns/,12,,https://dblp.org/db/journals/ijns/,可跳转／未经逐条核验,
+p12-r06,人工智能,期刊,C,IJPRAI,International Journal of Pattern Recognition and Artificial Intelligence,World Scientific,http://dblp.uni-trier.de/db/journals/ijprai/,12,,https://dblp.org/db/journals/ijprai/,可跳转／未经逐条核验,
+p12-r07,人工智能,期刊,C,IJUFKS,"International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",World Scientific,https://dblp.uni-trier.de/db/journals/ijufks/,12,,https://dblp.org/db/journals/ijufks/,可跳转／未经逐条核验,
+p12-r08,人工智能,期刊,C,IJDAR,International Journal on Document Analysis and Recognition,Springer,http://dblp.uni-trier.de/db/journals/ijdar/,12,,https://dblp.org/db/journals/ijdar/,可跳转／未经逐条核验,
+p12-r09,人工智能,期刊,C,JETAI,Journal of Experimental and Theoretical Artificial Intelligence,Taylor & Francis,http://dblp.uni-trier.de/db/journals/jetai/,12,,https://dblp.org/db/journals/jetai/,可跳转／未经逐条核验,
+p12-r10,人工智能,期刊,C,KBS,Knowledge-Based Systems,Elsevier,http://dblp.uni-trier.de/db/journals/kbs/,12,,https://dblp.org/db/journals/kbs/,可跳转／未经逐条核验,
+p12-r11,人工智能,期刊,C,,Machine Translation,Springer,http://dblp.uni-trier.de/db/journals/mt/,12,,https://dblp.org/db/journals/mt/,可跳转／未经逐条核验,原文简称为空
+p12-r12,人工智能,期刊,C,,Machine Vision and Applications,Springer,http://dblp.uni-trier.de/db/journals/mva/,12,,https://dblp.org/db/journals/mva/,可跳转／未经逐条核验,原文简称为空
+p12-r13,人工智能,期刊,C,,Natural Computing,Springer,http://dblp.uni-trier.de/db/journals/nc/,12,,https://dblp.org/db/journals/nc/,可跳转／未经逐条核验,原文简称为空
+p12-r14,人工智能,期刊,C,NLE,Natural Language Engineering,Cambridge University Press,http://dblp.uni-trier.de/db/journals/nle/,12,,https://dblp.org/db/journals/nle/,可跳转／未经逐条核验,
+p12-r15,人工智能,期刊,C,NCA,Neural Computing and Applications,Springer,http://dblp.uni-trier.de/db/journals/nca/,12,,https://dblp.org/db/journals/nca/,可跳转／未经逐条核验,
+p13-r01,人工智能,期刊,C,NPL,Neural Processing Letters,Springer,http://dblp.uni-trier.de/db/journals/npl/,13,,https://dblp.org/db/journals/npl/,可跳转／未经逐条核验,
+p13-r02,人工智能,期刊,C,,Neurocomputing,Elsevier,http://dblp.uni-trier.de/db/journals/ijon/,13,,https://dblp.org/db/journals/ijon/,可跳转／未经逐条核验,原文简称为空
+p13-r03,人工智能,期刊,C,PAA,Pattern Analysis and Applications,Springer,http://dblp.uni-trier.de/db/journals/paa/,13,,https://dblp.org/db/journals/paa/,可跳转／未经逐条核验,
+p13-r04,人工智能,期刊,C,PRL,Pattern Recognition Letters,Elsevier,http://dblp.uni-trier.de/db/journals/prl/,13,,https://dblp.org/db/journals/prl/,可跳转／未经逐条核验,
+p13-r05,人工智能,期刊,C,,Soft Computing,Springer,http://dblp.uni-trier.de/db/journals/soco/,13,,https://dblp.org/db/journals/soco/,可跳转／未经逐条核验,原文简称为空
+p13-r06,人工智能,期刊,C,WI,Web Intelligence,IOS Press,http://dblp.uni-trier.de/db/journals/wias/,13,,https://dblp.org/db/journals/wias/,可跳转／未经逐条核验,
+p13-r07,人工智能,期刊,C,TIIS,ACM Transactions on Interactive Intelligent Systems,ACM,https://dblp.org/db/journals/tiis/index.htm,13,,https://dblp.org/db/journals/tiis/index.htm,可跳转／未经逐条核验,
+p13-r08,人工智能,期刊,C,TELO,ACM Transactions on Evolutionary Learning and Optimization,ACM,https://dblp.uni-trier.de/db/journals/telo/in,13,,,疑似截断,
+p13-r09,人工智能,期刊,C,JATS,ACM Journal on Autonomous Transportation Systems,ACM,,13,,,原文缺失,原 PDF 中网址空缺
+p14-r01,人工智能,会议,A,AAAI,AAAI Conference on Artificial Intelligence,AAAI,http://dblp.uni-trier.de/db/conf/aaai/,14,https://aaai.org/conference/aaai/,https://dblp.org/db/conf/aaai/,可跳转／未经逐条核验,2026-10-18：AAAI 主办机构会议页面
+p14-r02,人工智能,会议,A,NeurIPS,Conference on Neural Information Processing Systems,MIT Press,http://dblp.uni-trier.de/db/conf/nips/,14,,https://dblp.org/db/conf/nips/,可跳转／未经逐条核验,
+p14-r03,人工智能,会议,A,ACL,Annual Meeting of the Association for Computational Linguistics,ACL,http://dblp.uni-trier.de/db/conf/acl/,14,,https://dblp.org/db/conf/acl/,可跳转／未经逐条核验,
+p14-r04,人工智能,会议,A,CVPR,IEEE/CVF Computer Vision and Pattern Recognition Conference,IEEE,http://dblp.uni-trier.de/db/conf/cvpr/,14,https://cvpr.thecvf.com/Conferences/2026,https://dblp.org/db/conf/cvpr/,可跳转／未经逐条核验,2026-10-18：CVPR 2026 官网
+p14-r05,人工智能,会议,A,ICCV,International Conference on Computer Vision,IEEE,http://dblp.uni-trier.de/db/conf/iccv/,14,,https://dblp.org/db/conf/iccv/,可跳转／未经逐条核验,
+p14-r06,人工智能,会议,A,ICML,International Conference on Machine Learning,ACM,http://dblp.uni-trier.de/db/conf/icml/,14,,https://dblp.org/db/conf/icml/,可跳转／未经逐条核验,
+p14-r07,人工智能,会议,A,ICLR,International Conference on Learning Representations,OpenReview,https://dblp.uni-trier.de/db/conf/iclr/index,14,,,疑似截断,
+p15-r01,人工智能,会议,B,COLT,Annual Conference on Computational Learning Theory,Springer,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r02,人工智能,会议,B,EMNLP,Conference on Empirical Methods in Natural Language Processing,ACL,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r03,人工智能,会议,B,ECAI,European Conference on Artificial Intelligence,IOS Press,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r04,人工智能,会议,B,ECCV,European Conference on Computer Vision,Springer,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r05,人工智能,会议,B,ICRA,IEEE International Conference on Robotics and Automation,IEEE,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r06,人工智能,会议,B,ICAPS,International Conference on Automated Planning and Scheduling,AAAI,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r07,人工智能,会议,B,ICCBR,International Conference on Case-Based Reasoning,Springer,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r08,人工智能,会议,B,COLING,International Conference on Computational Linguistics,International Committee on Computational Linguistics,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r09,人工智能,会议,B,KR,International Conference on Principles of Knowledge Representation and Reasoning,Morgan Kaufmann,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r10,人工智能,会议,B,UAI,Conference on Uncertainty in Artificial Intelligence,AUAI,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r11,人工智能,会议,B,AAMAS,International Joint Conference on Autonomous Agents and Multi-agent Systems,Springer,http://dblp.uni- trier.de/db/conf/atal/index.htm,15,,https://dblp.org/db/conf/atal/index.htm,可跳转／未经逐条核验,
+p15-r12,人工智能,会议,B,PPSN,Parallel Problem Solving from Nature,Springer,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r13,人工智能,会议,B,NAACL,North American Chapter of the Association for Computational Linguistics,Association for Computational Linguistics,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p15-r14,人工智能,会议,B,IJCAI,International Joint Conference on Artificial Intelligence,Morgan Kaufmann,http://dblp.uni-trier.de/db/conf,15,,,疑似截断,
+p16-r01,人工智能,会议,C,AISTATS,International Conference on Artificial Intelligence and Statistics,JMLR,http://dblp.uni-trier.de/db/conf/aistats/,16,,https://dblp.org/db/conf/aistats/,可跳转／未经逐条核验,
+p16-r02,人工智能,会议,C,ACCV,Asian Conference on Computer Vision,Springer,http://dblp.uni-trier.de/db/conf/accv/,16,,https://dblp.org/db/conf/accv/,可跳转／未经逐条核验,
+p16-r03,人工智能,会议,C,ACML,Asian Conference on Machine Learning,JMLR,http://dblp.uni-trier.de/db/conf/acml/,16,,https://dblp.org/db/conf/acml/,可跳转／未经逐条核验,
+p16-r04,人工智能,会议,C,BMVC,British Machine Vision Conference,British Machine Vision Association,http://dblp.uni-trier.de/db/conf/bmvc/,16,,https://dblp.org/db/conf/bmvc/,可跳转／未经逐条核验,
+p16-r05,人工智能,会议,C,NLPCC,CCF International Conference on Natural Language Processing and Chinese Computing,Springer,https://dblp.uni-trier.de/db/conf/nlpcc/,16,,https://dblp.org/db/conf/nlpcc/,可跳转／未经逐条核验,
+p16-r06,人工智能,会议,C,CoNLL,Conference on Computational Natural Language Learning,Association for Computational Linguistics,http://dblp.uni-trier.de/db/conf/conll,16,,,疑似截断,
+p16-r07,人工智能,会议,C,GECCO,Genetic and Evolutionary Computation Conference,ACM,http://dblp.uni-trier.de/db/conf/gecco/,16,,https://dblp.org/db/conf/gecco/,可跳转／未经逐条核验,
+p16-r08,人工智能,会议,C,ICTAI,IEEE International Conference on Tools with Artificial Intelligence,IEEE,http://dblp.uni-trier.de/db/conf/ictai/,16,,https://dblp.org/db/conf/ictai/,可跳转／未经逐条核验,
+p16-r09,人工智能,会议,C,IROS,IEEE\RSJ International Conference on Intelligent Robots and Systems,IEEE,http://dblp.uni-trier.de/db/conf/iros/,16,,https://dblp.org/db/conf/iros/,可跳转／未经逐条核验,
+p16-r10,人工智能,会议,C,ALT,International Conference on Algorithmic Learning Theory,Springer,http://dblp.uni-trier.de/db/conf/alt/,16,,https://dblp.org/db/conf/alt/,可跳转／未经逐条核验,
+p16-r11,人工智能,会议,C,ICANN,International Conference on Artificial Neural Networks,Springer,http://dblp.uni-trier.de/db/conf/icann/,16,,https://dblp.org/db/conf/icann/,可跳转／未经逐条核验,
+p16-r12,人工智能,会议,C,FG,IEEE International Conference on Automatic Face and Gesture Recognition,IEEE,http://dblp.uni-trier.de/db/conf/fgr/,16,,https://dblp.org/db/conf/fgr/,可跳转／未经逐条核验,
+p17-r01,人工智能,会议,C,ICDAR,International Conference on Document Analysis and Recognition,IEEE,http://dblp.uni-trier.de/db/conf/icdar/,17,,https://dblp.org/db/conf/icdar/,可跳转／未经逐条核验,
+p17-r02,人工智能,会议,C,ILP,International Conference on Inductive Logic Programming,Springer,http://dblp.uni-trier.de/db/conf/ilp/,17,,https://dblp.org/db/conf/ilp/,可跳转／未经逐条核验,
+p17-r03,人工智能,会议,C,KSEM,"International conference on Knowledge Science, Engineering and Management",Springer,http://dblp.uni-trier.de/db/conf/ksem/,17,,https://dblp.org/db/conf/ksem/,可跳转／未经逐条核验,
+p17-r04,人工智能,会议,C,ICONIP,International Conference on Neural Information Processing,Springer,http://dblp.uni-trier.de/db/conf/iconip/,17,,https://dblp.org/db/conf/iconip/,可跳转／未经逐条核验,
+p17-r05,人工智能,会议,C,ICPR,International Conference on Pattern Recognition,IEEE,http://dblp.uni-trier.de/db/conf/icpr/,17,,https://dblp.org/db/conf/icpr/,可跳转／未经逐条核验,
+p17-r06,人工智能,会议,C,IJCB,International Joint Conference on Biometrics,IEEE,http://dblp.uni-trier.de/db/conf/icb/,17,,https://dblp.org/db/conf/icb/,可跳转／未经逐条核验,
+p17-r07,人工智能,会议,C,IJCNN,International Joint Conference on Neural Networks,IEEE,http://dblp.uni-trier.de/db/conf/ijcnn/,17,,https://dblp.org/db/conf/ijcnn/,可跳转／未经逐条核验,
+p17-r08,人工智能,会议,C,PRICAI,Pacific Rim International Conference on Artificial Intelligence,Springer,http://dblp.uni-trier.de/db/conf/pricai/,17,,https://dblp.org/db/conf/pricai/,可跳转／未经逐条核验,
+p17-r09,人工智能,会议,C,IEEE CEC,Congress on Evolutionary Computation,IEEE,https://dblp.uni-trier.de/db/conf/cec/index.,17,,,疑似截断,
+p17-r10,人工智能,会议,C,DAI,International Conference on Distributed Artificial Intelligence,ACM/ Springer,https://dblp.uni-trier.de/db/conf/dai2/index,17,,,疑似截断,
