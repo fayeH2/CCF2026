@@ -1,87 +1,145 @@
-# CCF Atlas 2026 · 推荐期刊与会议在线查询
+# CCF 推荐国际学术期刊与会议在线查询平台
 
-这是一个**可部署到 GitHub Pages 的纯静态网页**，将用户提供的 17 页 PDF 目录转换为可搜索、可筛选的数据页面。无需数据库、构建系统或付费服务器。
+**CCF Atlas 2026** is a lightweight, interactive web application for exploring CCF-recommended academic journals and conferences.
 
-> **来源范围**：当前版本根据用户上传的 PDF 收录 171 条记录，只有「人工智能」「计算机图形学与多媒体」两大方向。它不是 CCF 2026 全部十大学科的完整收录。
->
-> **非官方声明**：本项目是第三方查询工具；正式分级以 [中国计算机学会 CCF 官方目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/) 为准。CCF 2026 第七版于 2026-03-31 正式发布，并于 04-09 有勘误更新。
+[**Online Website**](https://fayeH2.github.io/CCF2026/) —— [**GitHub Repository**](https://github.com/fayeH2/CCF2026) —— [**Official CCF List**](https://www.ccf.org.cn/Academic_Evaluation/By_category/)
 
-## 数据字段（不丢字段）
+---
 
-| 字段 | 说明 |
-| --- | --- |
-| `id` | 自建稳定行标识 |
-| `学科领域` | 人工智能 / 计算机图形学与多媒体 |
-| `类别` | 会议 / 期刊 |
-| `等级` | A / B / C |
-| `简称` | PDF 中的简称，空白保留空白 |
-| `全称` | PDF 中会议或期刊全称 |
-| `出版社/主办方` | PDF 原始列“出版社”；会议同列亦保留 |
-| `原始网址` | **PDF 中原样提取的网站文本，无论错误、截断或空白均保留** |
-| `pdf页码` | 便于回到 PDF 人工审校 |
-| `官方网址` | 独立核验后的期刊或会议主办网站；未查证的留空 |
-| `学术索引网址` | 结构上可解析的 DBLP / 索引链接或独立核验的入口 |
-| `链接状态` | 人工核对、可跳转但尚未逐条核验、疑似错链、疑似截断、原文缺失 |
-| `备注` | 来源中的特别情况及核查记录 |
+## 📖 Overview
 
-## 重要：PDF 内的部分网址本身存在问题
+**CCF Atlas 2026** 是一个基于 **CCF 2026 年第七版推荐目录** 构建的轻量级学术期刊与会议在线查询工具，旨在为计算机领域的科研人员、教师和学生提供便捷、直观的学术资源检索体验。
 
-- PDF 中的 “网址” 列多数是 **DBLP 学术索引**，并不是官方出版社 / 会议主页，因此本网站将“PDF 原始网址”“学术索引网址”“官方网址”拆成不同字段。
-- 例如 **TPAMI** 在原 PDF 第 8 页的网址指向 `conf/siggraph`；已经增列经核实的 TPAMI DBLP 索引地址，但仍保留错误的 PDF 原始网址文本，便于追溯。
-- 人工智能期刊部分第 8–10 页含明显错链或跨领域复用网址；还有 PDF 页面中的网址被截断，不能凭猜测当成已核验的有效链接。
-- 页面从 PDF 结构推断 A / B / C 章节层级；部分原 PDF 的高亮、删除线（如 ICVRV）可能含版本修订含义，完整原始 PDF 一并存档。正式发布前建议逐行对照 CCF 第七版正式版。
-- **没有把不能确认的链接伪装成官方网站。** 现在只为少数经独立核实的条目补了官网，其他将在后续核验完成后补齐。
+本项目目前主要收录以下两个学科领域：
 
-## 本地使用
+- **人工智能（Artificial Intelligence）**
+- **计算机图形学与多媒体（Computer Graphics and Multimedia）**
 
-下载仓库后直接用浏览器打开 `index.html` 即可（数据从 `data/venues.js` 读取，支持本地直接打开）。也可以用 Python：
+平台采用纯静态网页架构，无需后端服务器或数据库，可直接通过 GitHub Pages 部署，实现在线访问与检索。
+
+> **声明：** 本项目为非官方、自用学术查询工具，所有推荐等级及相关信息均以 [中国计算机学会（CCF）官方目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/) 为准。CCF 2026 第七版于 2026 年 3 月 31 日发布，并于 4 月 9 日发布勘误更新。
+
+
+## 🗂️ Data Structure
+
+本项目采用结构化数据管理方式，增加独立的链接核验信息，以确保数据的可追溯性与可维护性。
+
+| 字段        | 说明                         |
+| --------- | -------------------------- |
+| `id`      | 自建稳定行标识                    |
+| `学科领域`    | 人工智能 / 计算机图形学与多媒体          |
+| `类别`      | 会议 / 期刊                    |
+| `等级`      | CCF A / B / C              |
+| `简称`      | 原始 PDF 中的简称，缺失时保留空值        |
+| `全称`      | 原始 PDF 中的会议或期刊全称           |
+| `出版社/主办方` | 保留原始 PDF 的出版社列信息           |
+| `原始网址`    | 原样保留 PDF 中的网址，包括错误、截断或空白内容 |
+| `官方网址`    | 经独立核验的期刊或会议官方网站，未核验时留空     |
+| `学术索引网址`  | 可解析的 DBLP / 学术索引链接或独立核验的入口 |
+| `备注`      | 记录来源中的特殊情况及链接核验信息          |
+
+**Data Integrity:** 原始网址与核验后的链接分别存储，避免在数据清洗和更新过程中覆盖原始信息。对于无法确认的链接，系统保留原始记录，不将未经核验的网址标记为官方网站。
+
+## 🚀 Usage
+
+### 1. Local Usage — 本地运行
+
+本项目为纯静态网站，下载仓库后即可在本地使用，无需安装额外依赖。
+
+**方式一：直接使用浏览器**
+
+下载或克隆项目：
+
+```bash
+git clone https://github.com/fayeH2/CCF2026.git
+cd CCF2026
+```
+
+直接使用浏览器打开根目录下的 `index.html` 文件，即可访问查询页面。
+
+网站通过 `data/venues.js` 加载数据，支持本地文件方式访问。
+
+**方式二：启动本地 HTTP 服务**
+
+在项目根目录执行：
 
 ```bash
 python -m http.server 8000
-# 打开 http://localhost:8000/
 ```
 
-## GitHub Pages 部署
+随后在浏览器访问：
 
-1. 在 GitHub 创建仓库，例如 `ccf-2026-venues`，建议 **Public** 仓库以便公开访问（如果不希望公开，先核实账号与组织的 Pages 权限）。
-2. 将整个项目目录内容上传到仓库 `main` 分支的根目录（其中包含 `index.html`）。
-3. 在仓库的 **Settings → Pages → Build and deployment**，Source 选择 **Deploy from a branch**，Branch 选择 `main`，Folder 选择 `/ (root)`，点击 Save。
-4. 待 GitHub Pages 发布后访问：`https://<GitHub用户名>.github.io/ccf-2026-venues/`。
+[http://localhost:8000/](http://localhost:8000/)
 
-GitHub Pages 可以直接托管这套静态网站，无需后端或 API 密钥。README 会自动显示在 GitHub 项目主页。
+### 2. GitHub Pages — 在线部署
 
-## 更新目录
+本项目支持通过 GitHub Pages 免费部署，无需购买服务器或配置后端环境。
 
-1. 打开 `data/venues.json`，补充/修正记录，**不要直接覆盖原始网址字段**。如果原 PDF 数据明显有误，可在 `备注` 中说明，并为 `官方网址` 或 `学术索引网址` 填入已核验的新链接。
-2. 运行：
+**Step 1. 上传项目文件**
 
-```bash
-python scripts/build.py
-```
+将完整项目上传至 GitHub 仓库，确保 `index.html` 位于仓库根目录，并完整保留 `assets/` 和 `data/` 目录。
 
-3. 将更新后的 `venues.json` 和 `venues.js` 一并提交到 GitHub。网页自动更新。
+**Step 2. 配置 GitHub Pages**
 
-如需要完整 CCF 2026 十大学科，建议以 **CCF 官方第七版正式 PDF** 为源数据扩展，而不是把这份 17 页节选误认为完整目录。
+进入 GitHub 仓库的：
 
-## 文件结构
+`Settings → Pages → Build and deployment`
+
+设置如下：
+
+| Configuration | Value                |
+| ------------- | -------------------- |
+| Source        | Deploy from a branch |
+| Branch        | `main`               |
+| Folder        | `/ (root)`           |
+
+点击 **Save**，等待 GitHub Pages 自动完成部署。
+
+**Step 3. 访问在线网站**
+
+部署成功后，可通过以下地址访问：
+
+**[https://fayeH2.github.io/CCF2026/](https://fayeH2.github.io/CCF2026/)**
+
+后续更新数据或网页代码，只需向 `main` 分支提交修改，GitHub Pages 即可自动重新部署。
+
+## 📁 Project Structure
 
 ```text
-ccf-2026-pages/
-├── index.html              # 网站主页
-├── README.md               # GitHub 项目说明
+CCF2026/
+├── index.html              # 网站首页
+├── README.md               # 项目介绍与使用说明
+│
 ├── assets/
-│   ├── style.css           # 页面样式
-│   └── app.js              # 搜索、筛选、分页、CSV 导出
+│   ├── style.css           # 页面布局与视觉样式
+│   └── app.js              # 搜索、筛选、分页及导出功能
+│
 ├── data/
-│   ├── venues.json         # 主数据：全部字段
-│   ├── venues.js           # 浏览器直接读取的数据（自动生成）
-│   └── venues.csv          # 便于 Excel 检查的备份数据
+│   ├── venues.json         # 完整结构化数据
+│   ├── venues.js           # 浏览器读取的数据文件
+│   └── venues.csv          # CSV 格式数据备份
+│
 ├── scripts/
-│   └── build.py            # 从 JSON 生成浏览器数据
+│   └── build.py            # 数据构建与更新脚本
+│
 └── source/
-    └── 原始目录-2026-用户上传.pdf
+    └── 原始目录-2026-用户上传.pdf  # 原始数据来源
 ```
 
-## 数据使用注意
+## 🔄 Data Maintenance
 
-用户上传的 PDF 和表格内容仅作为本项目的转换来源。若正式公开此项目，应注明第三方整理身份、来源和下载来源，避免误称为 CCF 官方网站。
+项目使用 `data/venues.json` 作为主要数据源，以保证数据管理的一致性。
+
+当 CCF 官方目录发生调整，或期刊、会议官方网站发生变更时，可以更新相关数据字段，再通过 `scripts/build.py` 重新生成网页使用的数据文件。
+
+项目将持续关注数据准确性、链接有效性及目录更新情况。
+
+## 📌 Disclaimer
+
+本项目仅用于个人学习、学术研究和信息检索，不代表中国计算机学会（CCF）官方立场。
+
+所有期刊与会议的最终推荐等级、学科分类及名称信息均以 [CCF 官方学术评价目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/) 为准。
+
+---
+
+**CCF Atlas 2026** · Built for Academic Exploration
